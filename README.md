@@ -5,11 +5,12 @@
 
 --- 
  
-## Project Background 
-Sales Performance Analytics System is a data analysis project that uses historical sales data to support informed business decision-making. It explores sales transactions, customers, products, locations, and order status to identify revenue trends, customer behavior patterns, product performance, and regional sales distribution. The project helps uncover key insights such as performance gaps, top-performing segments, and growth opportunities. The findings are presented through interactive Power BI reports to simplify analysis and support effective decision-making.
+## Project Background
+- Sales Performance Analytics System is a data analysis project that uses historical sales data to support informed business decision-making. It explores sales transactions, customers, products, locations, and order status to identify revenue trends, customer behavior patterns, product performance, and regional sales distribution. The project helps uncover key insights such as performance gaps, top-performing segments, and growth opportunities. The findings are presented through interactive Power BI reports to simplify analysis and support effective decision-making.
 --- 
  
 ## Project Objective 
+
 i.	To analyze historical sales data in order to understand overall business performance and how it has changed over time.
 ii.	To track and compare sales trends across different time periods including daily, monthly, quarterly, and yearly performance for better trend analysis.
 iii.	To evaluate sales performance across various geographic levels such as countries, cities, states, and territories to identify strong and weak markets.
