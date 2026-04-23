@@ -5,8 +5,8 @@
 
 --- 
  
-## Project Background  
--  Global Sales Performance is a data analysis project that uses historical sales data to support informed business decision-making. It explores sales transactions, customers, products, locations, and order status to identify revenue trends, customer behavior patterns, product performance, and regional sales distribution. The project helps uncover key insights such as performance gaps, top-performing segments, and growth opportunities. The findings are presented through interactive Power BI reports to simplify analysis and support effective decision-making.
+## Project Background 
+- Global Sales Performance is a data analysis project that uses historical sales data to support informed business decision-making. It explores sales transactions, customers, products, locations, and order status to identify revenue trends, customer behavior patterns, product performance, and regional sales distribution. The project helps uncover key insights such as performance gaps, top-performing segments, and growth opportunities. The findings are presented through interactive Power BI reports to simplify analysis and support effective decision-making.
 --- 
  
 ## Project Objective 
@@ -22,7 +22,7 @@
  
 ## Datasets 
 
-**Sales.csv ** -  This dataset contains sales transaction and customer information, including order details, product details, sales values, time variables, customer names, contact information, address details, and order status. It also includes geographic fields such as city, state, country, and territory, which support analysis of sales performance across products, customers, time periods, and regions.
+Sales.csv -  This dataset contains sales transaction and customer information, including order details, product details, sales values, time variables, customer names, contact information, address details, and order status. It also includes geographic fields such as city, state, country, and territory, which support analysis of sales performance across products, customers, time periods, and regions.
 
 
 --- 
