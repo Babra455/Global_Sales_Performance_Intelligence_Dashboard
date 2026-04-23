@@ -11,13 +11,13 @@
  
 ## Project Objective 
 
-i.	To analyze historical sales data in order to understand overall business performance and how it has changed over time.
-ii.	To track and compare sales trends across different time periods including daily, monthly, quarterly, and yearly performance for better trend analysis.
-iii.	To evaluate sales performance across various geographic levels such as countries, cities, states, and territories to identify strong and weak markets.
-iv.	To assess product line performance in order to identify top-selling products and areas where sales are declining.
-v.	To track and analyze order status including shipped, cancelled, on hold, resolved, in process, and disputed to evaluate operational performance.
-vi.	To identify the customer with the highest number of orders in order to understand key customer engagement and loyalty patterns
-vii.	To support data-driven decision-making by presenting insights in a clear, structured, and interactive Power BI reporting format.
+- To analyze historical sales data in order to understand overall business performance and how it has changed over time.
+- To track and compare sales trends across different time periods including daily, monthly, quarterly, and yearly performance for better trend analysis.
+- To evaluate sales performance across various geographic levels such as countries, cities, states, and territories to identify strong and weak markets.
+- To assess product line performance in order to identify top-selling products and areas where sales are declining.
+- To track and analyze order status including shipped, cancelled, on hold, resolved, in process, and disputed to evaluate operational performance.
+- To identify the customer with the highest number of orders in order to understand key customer engagement and loyalty patterns
+- To support data-driven decision-making by presenting insights in a clear, structured, and interactive Power BI reporting format.
 --- 
  
 ## Datasets 
@@ -33,8 +33,9 @@ Interactivity: slicers for Year ID, Customer Name, and Product Line allow users 
 
 --- 
 ## Key Findings
-•	Diego Freyre stands out as the top customer, contributing the highest sales in the dataset, showing strong repeat purchases and making him a key driver of revenue for the business. 
-•	Most orders are marked as “Shipped”, indicating that the majority of sales are successfully completed and delivered, which reflects an efficient order fulfillment process. 
+
+- 	Diego Freyre stands out as the top customer, contributing the highest sales in the dataset, showing strong repeat purchases and making him a key driver of revenue for the business. 
+- Most orders are marked as “Shipped”, indicating that the majority of sales are successfully completed and delivered, which reflects an efficient order fulfillment process. 
 •	Sales are highest on Day 5, peak in November (Month 11), and are strongest in 2004, showing clear patterns in daily, monthly, and yearly performance. 
 •	The city of Madrid records the highest sales, the state of California (CA) ranks second in sales performance, the USA is the leading country in revenue contribution, and the EMEA territory is the strongest performing region overall. 
 •	Quarter 4 records the highest sales while Quarter 3 has the lowest, showing that sales generally peak towards the end of the year after a mid-year slowdown. 
