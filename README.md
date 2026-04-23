@@ -6,7 +6,7 @@
 --- 
  
 ## Project Background  
--  Global Sales Performance Analytics System is a data analysis project that uses historical sales data to support informed business decision-making. It explores sales transactions, customers, products, locations, and order status to identify revenue trends, customer behavior patterns, product performance, and regional sales distribution. The project helps uncover key insights such as performance gaps, top-performing segments, and growth opportunities. The findings are presented through interactive Power BI reports to simplify analysis and support effective decision-making.
+-  Global Sales Performance is a data analysis project that uses historical sales data to support informed business decision-making. It explores sales transactions, customers, products, locations, and order status to identify revenue trends, customer behavior patterns, product performance, and regional sales distribution. The project helps uncover key insights such as performance gaps, top-performing segments, and growth opportunities. The findings are presented through interactive Power BI reports to simplify analysis and support effective decision-making.
 --- 
  
 ## Project Objective 
