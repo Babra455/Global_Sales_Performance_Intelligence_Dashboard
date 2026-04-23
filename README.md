@@ -5,8 +5,8 @@
 
 --- 
  
-## Project Background
-- Sales Performance Analytics System is a data analysis project that uses historical sales data to support informed business decision-making. It explores sales transactions, customers, products, locations, and order status to identify revenue trends, customer behavior patterns, product performance, and regional sales distribution. The project helps uncover key insights such as performance gaps, top-performing segments, and growth opportunities. The findings are presented through interactive Power BI reports to simplify analysis and support effective decision-making.
+## Project Background  
+-  Global Sales Performance Analytics System is a data analysis project that uses historical sales data to support informed business decision-making. It explores sales transactions, customers, products, locations, and order status to identify revenue trends, customer behavior patterns, product performance, and regional sales distribution. The project helps uncover key insights such as performance gaps, top-performing segments, and growth opportunities. The findings are presented through interactive Power BI reports to simplify analysis and support effective decision-making.
 --- 
  
 ## Project Objective 
@@ -77,7 +77,7 @@ Interactivity: slicers for Year ID, Customer Name, and Product Line allow users 
 --- 
  
 ## How to Run / View 
-1.	Open `Sales Dashboard  ` in PowerBI Desktop (recommended)   
+1.	Open `Sales Dashboard `in PowerBI Desktop (recommended)   
 2.	Connect to the required data sources if prompted.
 3.	Navigate through the dashboard pages to explore different analyses.
 4.	Use slicers and filters to interact with the visuals specific time periods and products 
