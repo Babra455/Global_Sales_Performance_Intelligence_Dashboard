@@ -22,7 +22,7 @@
  
 ## Datasets 
 
-**Sales.csv ** -  This dataset contains information about sellers on the platform. It includes the following columns: seller ID, seller zip code prefix, seller city, and seller state. Each record represents an individual seller and their location details.
+**Sales.csv ** -  This dataset contains sales transaction and customer information, including order details, product details, sales values, time variables, customer names, contact information, address details, and order status. It also includes geographic fields such as city, state, country, and territory, which support analysis of sales performance across products, customers, time periods, and regions.
 
 
 --- 
