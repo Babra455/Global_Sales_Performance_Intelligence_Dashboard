@@ -44,7 +44,7 @@ Sales.csv -  This dataset contains sales transaction and customer information, i
 - 	A small group of customers contributes a large share of total revenue, showing that the business is highly dependent on key customers for performance. 
 - There is a noticeable drop in sales in one of the years, which may indicate changes in market conditions, demand, or internal business challenges. 
 -	Sales fluctuate over time, showing clear seasonal patterns that indicate customer demand changes depending on the time of year. 
-•
+
 
 --- 
 ## Recommendations 
