@@ -27,9 +27,9 @@ Sales.csv -  This dataset contains sales transaction and customer information, i
 
 --- 
 ## Dashboard Features 
-Key KPIs: total quantity ordered, average price per unit (price each), and total sales revenue. These KPIs provide a clear summary of overall sales performance, pricing trends, and demand levels across different segments.
-Visuals include: line charts for trends over years, pie charts, clustered column and bar charts  and tables for detailed records and contact information.
-Interactivity: slicers for Year ID, Customer Name, and Product Line allow users to filter and explore the data dynamically. 
+- Key KPIs: total quantity ordered, average price per unit (price each), and total sales revenue. These KPIs provide a clear summary of overall sales performance, pricing trends, and demand levels across different segments.
+- Visuals include: line charts for trends over years, pie charts, clustered column and bar charts  and tables for detailed records and contact information.
+- Interactivity: slicers for Year ID, Customer Name, and Product Line allow users to filter and explore the data dynamically. 
 
 --- 
 ## Key Findings
